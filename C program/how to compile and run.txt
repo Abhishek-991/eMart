@@ -1,0 +1,19 @@
+This PC > DATA (D:) > C program <-- click on it it is selected
+then
+type cmd
+after then cmd is open and then
+gcc hello.c
+a
+
+
+
+or
+
+gcc -o hello1.exe hello.c
+hello1
+
+
+C++
+
+g++ ab.cpp
+a
